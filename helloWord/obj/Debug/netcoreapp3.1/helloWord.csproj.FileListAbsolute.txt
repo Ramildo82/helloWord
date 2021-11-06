@@ -1,0 +1,14 @@
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.exe
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.deps.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.runtimeconfig.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.runtimeconfig.dev.json
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.dll
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\bin\Debug\netcoreapp3.1\helloWord.pdb
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.csproj.AssemblyReference.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.AssemblyInfoInputs.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.AssemblyInfo.cs
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.csproj.CoreCompileInputs.cache
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.dll
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.pdb
+C:\Users\Ramildo Junior\Documents\Imersao Csharp\helloWord\helloWord\obj\Debug\netcoreapp3.1\helloWord.genruntimeconfig.cache
